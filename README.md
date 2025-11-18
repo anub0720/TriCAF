@@ -1,6 +1,4 @@
 # TriCAF
 ## Algorithm
 
-![TriCAF Algorithm](/algorithm.png)
-
-![TriCAF Image](TRIcaf/image.png)
+![TriCAF Algorithm](https://raw.githubusercontent.com/anub0720/TriCAF/main/Algorithm.png)
